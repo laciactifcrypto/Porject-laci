@@ -1,0 +1,51 @@
+.divnvb1{
+    background: #000;
+    z-index: 0;
+    min-width: 1200px;
+    height: 110px;
+}
+
+.divnvb2{
+    display: inline-block;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 90%;
+    text-align: center;
+}
+
+.btnnvb1{
+    margin: 10px;
+    padding: 15px;
+    width: 150px; 
+}
+
+.anvb1{
+    text-decoration: none;
+    color: black;
+}
+
+.divnvb3{
+    float: right;
+    text-align: center;
+}
+
+.btnnvb2{
+    margin: 2px;
+    padding: 0px;
+    width: 100px; 
+    display: block;
+    text-align: left;
+
+}
+
+.anvb2{
+    color: black;
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+
+.imgnvb1{
+    padding-right: 10px;
+    margin-bottom: -2px;
+}
+

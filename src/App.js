@@ -1,23 +1,25 @@
-import logo from './logo.svg';
 import './App.css';
+import React from "react";
+import {Routes, Route} from "react-router-dom";
+import Acceuil from './compenents/Acceuil/Acceuil';
+import Application from './compenents/App/Application';
+import WhitePaper from './compenents/White paper/WhitePaper';
+import Investment from './compenents/Investment/Investment';
+import NavBar from './compenents/NavBar/NavBar';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="divextraapp">
+      <div className='Appbdoy'>
+        < NavBar />
+          <Routes>
+              <Route path='/Acceuil' element={<Acceuil />} /> 
+              <Route path='/Application' element={<Application />} /> 
+              <Route path='/WhitePaper' element={<WhitePaper />} /> 
+              <Route path='/Investment' element={<Investment />} /> 
+          </Routes>
+      </div>
     </div>
   );
 }

@@ -1,0 +1,172 @@
+.divhm1{
+    background: #000;
+    padding: 50px;
+    min-width: 1600px;
+}
+
+.divhm2{
+    background: #000;
+    background-image: url(../../../public/img/Image/investisseurretourner.jpg);
+    box-shadow: -00px -00px 150px 50px white;
+    width: 50%;
+    height: 400px;
+    margin: 240px 0px 0px 150px;
+    display: inline-block;
+    min-width: 800px;
+}
+
+.divhm3{
+    background: #00000000;
+    width: 20%;
+    float: right;
+    font-size: 40px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-right: 150px;
+
+}
+
+.divhm4{
+    background: #00000000;
+    font-size: 40px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.divhm5{
+    text-align: center;
+    width: 40%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.divhm6{
+    background: #000;
+    background-image: url(../../../public/img/Image/invest.jpg);
+    box-shadow: -00px -00px 150px 50px white;
+    width: 50%;
+    height: 400px;
+    margin: 100px 0px 0px 150px;
+    min-width: 500px;
+    background-size: cover;
+    float: right;
+}
+
+.divhm7{
+    font-size: 40px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.divhm8{
+    background-image: url(../../../public/img/White-Paper/WhitePaperLaci_00034.png);
+    box-shadow: -00px -00px 150px 50px white;
+    padding-bottom: 200px;
+    width: 60%;
+    height: 400px;
+    margin: 100px 0px 50px 150px;
+    min-width: 800px;
+    background-size: cover;
+    float: right;
+}
+
+.divhm9{
+    text-align: center;
+    width: 30%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.divhm10{
+    font-size: 40px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 150px;
+}
+
+.divhm11{
+    background-image: url(../../../public/img/Image/entreprise.jpg);
+    box-shadow: -10px -00px 150px 200px white;
+    padding: 30px;
+    max-width: 48%;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+}
+
+.divhm12{
+    width: 50%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 400px;
+    margin-bottom: -100px;
+}
+
+.divhm13{
+    background-position: 50% 50%;
+    background: #000;
+    background-image: url(../../../public/img/Image/croissance.jpg);
+    box-shadow: 00px -00px 00px 00px white;
+    width: 72%;
+    height: 340px;
+    margin: 00px 200px 0px 0px;
+    min-width: 500px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.divhm14{
+    text-align: center;
+    width: 30%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    margin: 400px 0px 0px 100px;
+}
+
+.divhm15{
+    background-image: url(../../../public/img/Image/code.jpg);
+    height: 400px;
+    width: 40%;
+    background-size: cover;
+    float: right;
+    margin: 400px 200px 0px 0px;
+}
+
+.divhm16{
+    background-image: url(../../../public/img/Image/code1.jpg);
+    height: 400px;
+    width: 40%;
+    background-size: cover;
+    margin: 100px 000px 0px 100px;
+}
+
+.divhm17{
+    float: right;
+    text-align: center;
+    width: 40%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 20px;
+    margin: -300px 100px 0px 000px;
+}
